@@ -63,13 +63,9 @@
 				
 					<div class="col-sm-12 myhover">
 						<p style="font-size: 25px; font-style: italic;">
-							The IEEE formed in 1963 with the merger of the AIEE (American Institute of Electrical Engineers, formed in 1884), and the IRE (Institute of Radio Engineers, formed in 1912). From its earliest origins, the IEEE has:
-· Advanced the theory and application of electro technology and allied sciences.
-· Served as a catalyst for technological innovation.
-· Supported the needs of its members through a wide variety of programs and services.
+						IEEE Gujarat Section comes under Asia-Pacific Region, the Region 10 of IEEE. The Gujarat Section, a sub section of Bombay Section, was upgraded to full fledged section on 15th August 1990. In 2004 Gujarat Section was adjudged the Outstanding Small Section of Region 10.
 
-Through its members, the IEEE is a leading authority in technical areas ranging from computer engineering, biomedical technology and telecommunications, to electric power, aerospace and consumer electronics, among others.
-The Institute of Electrical and Electronics Engineers (IEEE) is devoted to advancing the theory and application of electrical engineering, electronics, and computing.<br>
+The section has emphasis on quality programmes and such programmes are regular feature for professional development of its members. The section’s participative philosophy allows students to make programmes as per their own need. Section encourages students and has instituted awards for student members.<br>
 <a href="http://ieeegujaratsection.org/" style="font-size: 25px; font-style: italic;">More about IEEE Gujarat Section</a>
 						</p>
 					</div>  
