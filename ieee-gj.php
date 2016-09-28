@@ -52,10 +52,8 @@
 		
 
 			<style type="text/css">
-
 			.myhover a:link { color: #0000EE; }
 			.myhover a:visited { color: #551A8B; }
-
 		</style>
 <div class="col-sm-12 wow flipInX">
 				<h2 align="center" style="font-size: 50px; font-style: bold;color: #6699CC">IEEE GUJARAT SECTION</h2>
@@ -63,9 +61,12 @@
 				
 					<div class="col-sm-12 myhover">
 						<p style="font-size: 25px; font-style: italic;">
-						IEEE Gujarat Section comes under Asia-Pacific Region, the Region 10 of IEEE. The Gujarat Section, a sub section of Bombay Section, was upgraded to full fledged section on 15th August 1990. In 2004 Gujarat Section was adjudged the Outstanding Small Section of Region 10.
-
-The section has emphasis on quality programmes and such programmes are regular feature for professional development of its members. The section’s participative philosophy allows students to make programmes as per their own need. Section encourages students and has instituted awards for student members.<br>
+						<p>The IEEE Gujarat section is one of the small and most important one in the Asia-Pacific region. If for no other reason than that Mahatma Gandhi was a Gujarati by birth, and had spearheaded the Indian Freedom Struggle from his ashram at Ahmedabad where the IEEE Gujarat Section is headquartered.
+</p><p>IEEE activities in Gujarat first started in 1988 at the city of Vadodara (earlier known as Baroda), when first unit of IEEE student branch was established at the Dept. of Electrical Engineering, Faculty of Technology &amp; Engineering, M.S.University. Dr. A. K. Aggarwal was the first Branch Counselor. Mr. J. S. Negi, the then Chief Executive of M/s Jyoti Ltd, had taken the initiative for submitting the petition for forming the Vadodara Sub-Section under the Bombay Section. IEEE accepted the petition and the Vadodara sub-section was formed with Mr. J. S. Negi as the interim Chair in the year 1988. 
+</p><p>Later IEEE agreed to change the name of the entity to Gujarat Sub-section. On 15th August 1990 the Sub-section was upgraded to a full fledged Section to take its place as one among the 300 sections in the world spread out over 150 countries. The IEEE Gujarat University Student Branch was the next student branch unit established in 1994. The IEEE Gujarat Section was carved out from the IEEE Bombay Section mainly for logistic reasons.
+</p><p>Gujarat Section was first brought to international attention in 1997 with the holding a twin conference on’ Internet Security’ and EEE in the petroleum sector both downstream and upstream. This twin conference was held in the premises of the Institute of Reservoir Studies of the ONGC. Prominent IEEE figures who attended included Dr. Charles Rubenstein then the editor of the IEEE Transactions in Engineering Management. The conference was followed by the visit of the Technical Activities Board (TAB) of the IEEE led by President IEEE Dr. Kenneth Laker, President-Elect Dr. Mike Adler, Mr. Pete(Wes) Spencer a Power Utilities owner, Mrs. Mary Ward-Callan the Managing Director of the TAB and Ms. Fanny Su Behn Hoi of the IEEE Region 10 HQ at Singapore. Dr. Vijay Bhargava, the then candidate for the post of the President IEEE Communications Society and Mrs. Laker also accompanied the group. On this occasion, a student branch was inaugurated at the Nirma Institute of Technology.
+</p><p>Gujarat Section has always been pioneer in organizing programs for professional and students. Its annual event ‘<b>Sampark</b>’ gives a platform to student members to design IEEE events of the year as per their own need and requirement. This helps IEEE student members of the Section to be their own leader. ‘Sampark’ had also been featured in one of the issue of ‘The Institute’.
+</p>
 <a href="http://ieeegujaratsection.org/" style="font-size: 25px; font-style: italic;">More about IEEE Gujarat Section</a>
 						</p>
 					</div>  
