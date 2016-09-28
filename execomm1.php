@@ -21,51 +21,51 @@
 		<link rel="stylesheet" type="text/css" href="assets/css/animate.css" />
 		<link rel="stylesheet" type="text/css" href="assets/css/yamm.css" />
 		<link rel="stylesheet" type="text/css" href="assets/css/shortcodes.css" />
-	
+
 	<!--[if lt IE 9]>
 			<script src="assets/js/html5shiv.js"></script>
 			<script src="assets/js/respond.min.js"></script>
 			<![endif]-->
 	<!-- Favicon -->
 </head>
-	<body data-spy="scroll" data-target=".navbar-collapse" data-offset="100"> 
+	<body data-spy="scroll" data-target=".navbar-collapse" data-offset="100">
 	<!-- Navigation -->
- <?php 
+ <?php
   	$branch = "active";
   	$about = "";
 	$chapters = "";
 	$gallery = "";
 	$faq = "";
 	$contact = "";
-  	include('nav.php'); 
+  	include('nav.php');
   ?>
 <section class="title-section main-color">
 	<div class="container">
 		<h4>Branch Information</h4>
 	</div>
-</section>	
+</section>
 <!-- section : [!RECENT WORK ITEMS!]-->
 <section class="container work-isotope" >
 <div class="wow bounceInDown delay-1">
 	<div class="row">
-		<div class="col-md-12">	
+		<div class="col-md-12">
 			<h2 style="font-size: 50px; font-style: bold;color: #6699CC; text-align: center;">
-					
+
 BRANCH EXECOMM 2016
 
-			</h2>		
+			</h2>
 		</div>
-		
+
 	</div>
 
 	<div class="content">
 		<div class="container layout">
-			
 
-		
-			
+
+
+
 			<div class="row">
-			
+
 
 			<p style="font-size: 40px; font-style: bold;" align="center">Core Team</p><br>
 				<div class="b-member m-quad row-item col-md-3">
@@ -73,8 +73,8 @@ BRANCH EXECOMM 2016
 						<img src="assets/img/execomm/Sahil.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank"href="https://www.facebook.com/Sahilrulz"><i class="icon-facebook"></i></a></li>
-							
-							
+
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -91,9 +91,9 @@ BRANCH EXECOMM 2016
 					<div class="member-photo">
 						<img src="assets/img/execomm/Khyati.jpg" height="250px" width="200px">
 						<ul class="b-social">
-							
-							
-							
+
+
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -122,7 +122,7 @@ BRANCH EXECOMM 2016
 						</div>
 					</div>
 					<p align="center">+91-9099809050</p>
-					
+
 				</div>
 				<div class="b-member m-quad row-item col-md-3">
 					<div class="member-photo">
@@ -149,14 +149,14 @@ BRANCH EXECOMM 2016
 				<p style="font-size: 40px; font-style: bold;" align="center">Webmaster</p><br>
 				<div class="b-member m-quad row-item col-md-1"></div>
 				<div class="b-member m-quad row-item col-md-3"></div>
-			
+
 				<div class="b-member m-quad row-item col-md-3" style="left:45px;">
 					<div class="member-photo">
 						<img src="assets/img/execomm/Saurav.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank" href="https://www.facebook.com/saorav"><i class="icon-facebook"></i></a></li>
-							
-							
+
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -187,7 +187,7 @@ BRANCH EXECOMM 2016
 				</style>
 
 
-				
+
 				<br><br><br>
 				<div class="col-md-12">
 				<p style="font-size: 40px; font-style: bold;" align="center">SIG Embedded</p><br>
@@ -197,7 +197,7 @@ BRANCH EXECOMM 2016
 						<img src="assets/img/execomm/Harsh.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank"href="https://www.facebook.com/harshthakkar456"><i class="icon-facebook"></i></a></li>
-						
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -215,7 +215,7 @@ BRANCH EXECOMM 2016
 						<img src="assets/img/execomm/Birva.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank"href="https://www.facebook.com/profile.php?id=100009308644191"><i class="icon-facebook"></i></a></li>
-							
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -232,7 +232,7 @@ BRANCH EXECOMM 2016
 				</div>
 
 
-				
+
 
 				<br><br>
 				<!-- NEW -->
@@ -243,7 +243,7 @@ BRANCH EXECOMM 2016
 						<img src="assets/img/execomm/Akar.jpg" height="250px" width="200px" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank"href="https://www.facebook.com/akar.sheth"><i class="icon-facebook"></i></a></li>
-						
+
 						</ul>
 					</div>
 
@@ -264,7 +264,7 @@ BRANCH EXECOMM 2016
 						<img src="assets/img/execomm/Urvashi.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank"href="http://www.facebook.com/urvashi.jain.33"><i class="icon-facebook"></i></a></li>
-							
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -277,14 +277,14 @@ BRANCH EXECOMM 2016
 					</div>
 					<p align="center">+91-8000241589</p>
 				</div>
-				
+
 
 				<div class="b-member m-quad row-item col-md-3">
 					<div class="member-photo">
 						<img src="assets/img/execomm/Tirth.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank"href="http://www.facebook.com/tirth.shah.3158"><i class="icon-facebook"></i></a></li>
-							
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -302,7 +302,7 @@ BRANCH EXECOMM 2016
 						<img src="assets/img/execomm/Milap.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank"href="http://www.facebook.com/milap.shah.144"><i class="icon-facebook"></i></a></li>
-						
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -320,7 +320,7 @@ BRANCH EXECOMM 2016
 </div>
 
 
-			
+
 				<div class="col-md-12">
 				<p style="font-size: 40px; font-style: bold;" align="center">WIE</p><br>
 				<div class="b-member m-quad row-item col-md-1"></div>
@@ -329,7 +329,7 @@ BRANCH EXECOMM 2016
 						<img src="assets/img/execomm/Prachi.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank"href="http://www.facebook.com/prachi.agrawal.9659"><i class="icon-facebook"></i></a></li>
-						
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -344,46 +344,43 @@ BRANCH EXECOMM 2016
 				</div>
 				<div class="b-member m-quad row-item col-md-3">
 					<div class="member-photo">
-						<img src="assets/img/execomm/Konica.jpg" height="250px" width="200px">
+						<!-- Add vaidehi's photo and faceboook link-->
+						<img src="assets/img/execomm/Vaidehi.jpg" alt="Vaidehi Darji" height="250px" width="200px">
 						<ul class="b-social">
-							<li><a class="fb" target="_blank"href="https://www.facebook.com/konica.tallari"><i class="icon-facebook"></i></a></li>
-							
+							<li><a class="fb" target="_blank"href=""><i class="icon-facebook"></i></a></li>
 						</ul>
 					</div>
 					<div class="member-meta">
 						<div class="member-name">
-							Konica Tallari
+							Vaidehi Darji
 						</div>
 						<div class="member-position">
 							WIE
 						</div>
 					</div>
-					<p align="center">+91-7572811802</p>
+					<p align="center">+91-7016530781</p>
 				</div>
 
+					<!-- Add Nidhi's photo and faceboook link-->
 				<div class="b-member m-quad row-item col-md-3">
 					<div class="member-photo">
-						<img src="assets/img/execomm/Parita.jpg" height="250px" width="200px">
+						<img src="assets/img/execomm/Nidhi.jpg" height="250px" width="200px">
 						<ul class="b-social">
-							<li><a class="fb" target="_blank"href="https://www.facebook.com/parita.patel.397"><i class="icon-facebook"></i></a></li>
-							
+							<li><a class="fb" target="_blank"href=""><i class="icon-facebook"></i></a></li>
 						</ul>
 					</div>
 					<div class="member-meta">
 						<div class="member-name">
-							Parita Patel
+							Nidhi Davawala
 						</div>
 						<div class="member-position">
 							WIE
 						</div>
 					</div>
-					<p align="center">+91-9925220141</p>
+					<p align="center">+91-9825170779</p>
 				</div>
-				
+
 				<div class="b-member m-quad row-item col-md-1"></div>
-
-
-
 </div>
 
 
@@ -397,18 +394,18 @@ BRANCH EXECOMM 2016
 
 
 
-				
+
 								<div class="col-md-12">
 
 				<p style="font-size: 40px; font-style: bold;" align="center">Event Coordinators</p><br>
-				
+
 				<div class="b-member m-quad row-item col-md-1"></div>
 				<div class="b-member m-quad row-item col-md-3">
 					<div class="member-photo">
 						<img src="assets/img/execomm/Nilay.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank"href="https://www.facebook.com/nihaal.shrimali"><i class="icon-facebook"></i></a></li>
-							
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -432,7 +429,7 @@ BRANCH EXECOMM 2016
 						<img src="assets/img/execomm/Jay.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank"href="https://www.facebook.com/jay.shah.395454"><i class="icon-facebook"></i></a></li>
-						
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -446,7 +443,7 @@ BRANCH EXECOMM 2016
 					<p align="center">
 +91-7600453121</p>
 				</div>
-				
+
 
 
 
@@ -457,7 +454,7 @@ BRANCH EXECOMM 2016
 						<img src="assets/img/execomm/PrachiP.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank"href="http://www.facebook.com/prachi.palod.15"><i class="icon-facebook"></i></a></li>
-							
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -475,10 +472,10 @@ BRANCH EXECOMM 2016
 
 				<div class="b-member m-quad row-item col-md-1"></div>
 
-				
 
 
-		
+
+
 				<!-- </div> -->
 
 
@@ -487,9 +484,9 @@ BRANCH EXECOMM 2016
 
 
 
-				
-				
-				
+
+
+
 
 
 				</div>
@@ -504,8 +501,8 @@ BRANCH EXECOMM 2016
 						<img src="assets/img/execomm/Mrugesh.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank" href="https://www.facebook.com/profile.php?id=100008454007728"><i class="icon-facebook"></i></a></li>
-							
-							
+
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -522,7 +519,7 @@ BRANCH EXECOMM 2016
 
 				<div class="b-member m-quad row-item col-md-3"></div>
 				<div class="b-member m-quad row-item col-md-1"></div>
-	
+
 </div>
 
 
@@ -535,8 +532,8 @@ BRANCH EXECOMM 2016
 						<img src="assets/img/execomm/Dhaval.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank"href="https://www.facebook.com/adhavalboy"><i class="icon-facebook"></i></a></li>
-							
-							
+
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -554,8 +551,8 @@ BRANCH EXECOMM 2016
 						<img src="assets/img/execomm/Nikisha.jpg" height="250px" width="200px">
 						<ul class="b-social">
 							<li><a class="fb" target="_blank" href="https://www.facebook.com/nikisha.patel.25"><i class="icon-facebook"></i></a></li>
-							
-							
+
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -605,7 +602,7 @@ BRANCH EXECOMM 2016
 						</div>
 					</div>
 					<p align="center">+91-8107058444</p>
-					
+
 				</div>
 
 				</div>
@@ -632,9 +629,9 @@ BRANCH EXECOMM 2016
 						</div>
 					</div>
 					<p align="center">+91-8866005687</p>
-					
+
 				</div>
-				
+
 
 				<div class="b-member m-quad row-item col-md-3">
 					<div class="member-photo">
@@ -652,17 +649,17 @@ BRANCH EXECOMM 2016
 						</div>
 					</div>
 					<p align="center">+91-9714953058</p>
-					
+
 				</div></div>
 				<!-- <div class="col-md-3"></div></div> -->
 				<div class="b-member m-quad row-item col-md-3"></div>
-				
+
 
 </div>
 </div>
 
 
-				
+
 			</div>
 			</div>
 		</div>
@@ -673,10 +670,10 @@ BRANCH EXECOMM 2016
 
 
 
-	
+
 <?php include('footer.php'); ?>
 <script type="text/javascript" src="assets/js/jquery.js"></script>
-<script type="text/javascript" src="assets/js/bootstrap.js"></script> 
+<script type="text/javascript" src="assets/js/bootstrap.js"></script>
 <script type="text/javascript" src="assets/js/jquery.countdown.min.js"></script>
 <script type="text/javascript" src="assets/js/wow.min.js"></script>
 <script type="text/javascript" src="assets/js/progressbars.js"></script>

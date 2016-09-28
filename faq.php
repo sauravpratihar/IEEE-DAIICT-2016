@@ -28,17 +28,17 @@
       .myhover a:visited { color: #551A8B; }
 
     </style>
-	
+
 	<!--[if lt IE 9]>
 			<script src="assets/js/html5shiv.js"></script>
 			<script src="assets/js/respond.min.js"></script>
 			<![endif]-->
 	<!-- Favicon -->
 </head>
-	<body data-spy="scroll" data-target=".navbar-collapse" data-offset="100"> 
+	<body data-spy="scroll" data-target=".navbar-collapse" data-offset="100">
 
 	<!-- Navigation -->
-  <?php 
+  <?php
     $faq = "active";
     $home = "";
     $about = "";
@@ -46,20 +46,20 @@
     $gallery = "";
     $branch = "";
     $contact = "";
-    include('nav.php'); 
+    include('nav.php');
   ?>
   <!-- / .navigation -->
 <section class="title-section main-color">
 	<div class="container">
 		<h4>FAQS</h4>
-	</div>			
-</section>	
+	</div>
+</section>
 <section id="faqs" class="wow shake ">
 	<div class="container">
-		
+
 		<div class="content">
 								<h2 style="font-size: 50px; font-style: bold;color: #6699CC;text-align: center;">faqs</h2>
-					</div>		
+					</div>
 		<div class="row" id="faqs-row">
 			<div class="panel-group" id="accordion">
 				<div class="panel panel-default ">
@@ -72,7 +72,7 @@
 					</div>
 					<div id="collapseOne" class="panel-collapse collapse in myhover">
 						<div class="panel-body">
-              The IEEE, a non-profit organization, is the world's leading professional association for the advancement of technology. The full name of the IEEE is the Institute of Electrical and Electronics Engineers, Inc., although the organization is referred to by the letters I-E-E-E and pronounced Eye-triple-E. Through its global membership, the IEEE is a leading authority on areas ranging from aerospace systems, computers and telecommunications to biomedical engineering, electric power and consumer electronics among others. Members rely on the IEEE as a source of technical and professional information, resources and services.<br><br>To foster an interest in the engineering profession, the IEEE also serves student members in colleges and universities around the world. Other important constituencies include prospective members and organizations that purchase IEEE products and participate in conferences or other IEEE programs. 
+              The IEEE, a non-profit organization, is the world's leading professional association for the advancement of technology. The full name of the IEEE is the Institute of Electrical and Electronics Engineers, Inc., although the organization is referred to by the letters I-E-E-E and pronounced Eye-triple-E. Through its global membership, the IEEE is a leading authority on areas ranging from aerospace systems, computers and telecommunications to biomedical engineering, electric power and consumer electronics among others. Members rely on the IEEE as a source of technical and professional information, resources and services.<br><br>To foster an interest in the engineering profession, the IEEE also serves student members in colleges and universities around the world. Other important constituencies include prospective members and organizations that purchase IEEE products and participate in conferences or other IEEE programs.
 						</div>
 					</div>
 				</div>
@@ -160,9 +160,9 @@
 					</div>
 					<div id="collapsefive" class="panel-collapse collapse myhover">
 						<div class="panel-body">
-							Full-Year Membership: Rs XXXX<br><br>
-              Half yearly rates applied to new members only. IEEE membership runs from 1 January through 31 December. NEW applications received between 16 August 2011 and 28 February 2012 will automatically be processed at the full year dues rates. Services begin immediately.
-              NEW applications received between 1 March and 15 August 2012 will automatically be processed for half-year membership ending 31 December 2012 at the half-year dues rates. Exception is when the applicant specifically requests their application be processed for the full year. However, we cannot guarantee availability of back issues of all publications for the first half of the calendar year.
+							Full-Year Membership: $27<br><br>
+              Half yearly rates applied to new members only. IEEE membership runs from 1 January through 31 December.
+							The recruitment drive will ensure membership stays valid till December 2017.
               <br><br>More About Fee Payment: <a href="http://www.ieee.org/membership_services/membership/join/join_dues.html">http://www.ieee.org/membership_services/membership/join/join_dues.html</a>
 						</div>
 					</div>
@@ -194,7 +194,6 @@
           <div id="collapseseven" class="panel-collapse collapse myhover">
             <div class="panel-body">
                When students join IEEE, they automatically become members of the IEEE Student Branch at their university or college. Students, like professional members, automatically become members of their local IEEE Section and Region, allowing them to share technical, professional and personal interests with others in IEEE's worldwide member community. IEEE Student Branch, DA-IICT aims to provide an interactive platform for students to develop professional and technical abilities. Since the inception, it is successful in organizing various national and state events with well defined objectives.
-
             </div>
           </div>
         </div>
@@ -211,7 +210,6 @@
             <div class="panel-body">
               You will gain exposure by organizing events and interacting with other members. Earn certificates, awards and accolades which gives you an edge over others in placement. All EXECOM members of IEEE Student Branch are volunteers. But on the basis of experience and responsibility, there are certain positions in the committee.<br><br>
               So a fresher in the committee is given volunteer position. After 1 year, new committee is formed through interviews. Up gradation of the position of previous year's members take place on the basis of his/her involvement and his/her devotion towards IEEE Student Branch DA-IICT.
-
             </div>
           </div>
         </div>
@@ -279,14 +277,14 @@
           </div>
         </div>
           <br><br>
-         <p style="font-size: 20px; font-style: bold;">** Some points are taken from ieee.org</p> 
+         <p style="font-size: 20px; font-style: bold;">** Some points are taken from ieee.org</p>
 			</div>
 		</div>
 	</div>
-</section>		
+</section>
 
 <script type="text/javascript" src="assets/js/jquery.js"></script>
-<script type="text/javascript" src="assets/js/bootstrap.js"></script> 
+<script type="text/javascript" src="assets/js/bootstrap.js"></script>
 <script type="text/javascript" src="assets/js/jquery.countdown.min.js"></script>
 <script type="text/javascript" src="assets/js/wow.min.js"></script>
 <script type="text/javascript" src="assets/js/progressbars.js"></script>
