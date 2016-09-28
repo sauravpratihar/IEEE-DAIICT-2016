@@ -321,33 +321,14 @@ BRANCH EXECOMM 2016
 
 
 
-				<div class="col-md-12">
-				<p style="font-size: 40px; font-style: bold;" align="center">WIE</p><br>
-				<div class="b-member m-quad row-item col-md-1"></div>
+							<p style="font-size: 40px; font-style: bold;" align="center">WIE</p><br>
 				<div class="b-member m-quad row-item col-md-3">
 					<div class="member-photo">
-						<img src="assets/img/execomm/Prachi.jpg" height="250px" width="200px">
+						<img src="assets/img/execomm/Vaidehi.jpg" height="250px" width="200px">
 						<ul class="b-social">
-							<li><a class="fb" target="_blank"href="http://www.facebook.com/prachi.agrawal.9659"><i class="icon-facebook"></i></a></li>
+							<li><a class="fb" target="_blank" href="https://www.facebook.com/vaidehi.darji.7"><i class="icon-facebook"></i></a></li>
 
-						</ul>
-					</div>
-					<div class="member-meta">
-						<div class="member-name">
-							Prachi Agrawal
-						</div>
-						<div class="member-position">
-							WIE
-						</div>
-					</div>
-					<p align="center">+91-9712015780</p>
-				</div>
-				<div class="b-member m-quad row-item col-md-3">
-					<div class="member-photo">
-						<!-- Add vaidehi's photo and faceboook link-->
-						<img src="assets/img/execomm/Vaidehi.jpg" alt="Vaidehi Darji" height="250px" width="200px">
-						<ul class="b-social">
-							<li><a class="fb" target="_blank"href=""><i class="icon-facebook"></i></a></li>
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -358,15 +339,16 @@ BRANCH EXECOMM 2016
 							WIE
 						</div>
 					</div>
-					<p align="center">+91-7016530781</p>
+					<p align="center">+91-9974048310</p>
 				</div>
 
-					<!-- Add Nidhi's photo and faceboook link-->
 				<div class="b-member m-quad row-item col-md-3">
 					<div class="member-photo">
 						<img src="assets/img/execomm/Nidhi.jpg" height="250px" width="200px">
 						<ul class="b-social">
-							<li><a class="fb" target="_blank"href=""><i class="icon-facebook"></i></a></li>
+						<li><a class="fb" target="_blank" href="https://www.facebook.com/nidhi.davawala.7"><i class="icon-facebook"></i></a></li>
+
+
 						</ul>
 					</div>
 					<div class="member-meta">
@@ -380,8 +362,44 @@ BRANCH EXECOMM 2016
 					<p align="center">+91-9825170779</p>
 				</div>
 
-				<div class="b-member m-quad row-item col-md-1"></div>
-</div>
+
+				<div class="b-member m-quad row-item col-md-3">
+					<div class="member-photo">
+						<img src="assets/img/execomm/Neelanshi.jpg" height="250px" width="200px">
+						<ul class="b-social">
+							<li><a class="fb" target="_blank" href="https://www.facebook.com/neelanshi.varia"><i class="icon-facebook"></i></a></li>
+						</ul>
+					</div>
+					<div class="member-meta">
+						<div class="member-name">
+							Neelanshi Varia
+						</div>
+						<div class="member-position">
+							WIE
+						</div>
+					</div>
+					<p align="center">+91-9913304142</p>
+
+				</div>
+
+
+				<div class="b-member m-quad row-item col-md-3">
+					<div class="member-photo">
+						<img src="assets/img/execomm/Aashini.jpg" height="250px" width="200px">
+						<ul class="b-social">
+							<li><a class="fb" target="_blank" href="https://www.facebook.com/aashini.soni"><i class="icon-facebook"></i></a></li>
+						</ul>
+					</div>
+					<div class="member-meta">
+						<div class="member-name">
+							Aashini Soni
+						</div>
+						<div class="member-position">
+							WIE
+						</div>
+					</div>
+					<p align="center">+91-9601993658</p>
+				</div>
 
 
 
@@ -399,12 +417,12 @@ BRANCH EXECOMM 2016
 
 				<p style="font-size: 40px; font-style: bold;" align="center">Event Coordinators</p><br>
 
-				<div class="b-member m-quad row-item col-md-1"></div>
+				<!-- <div class="b-member m-quad row-item col-md-1"></div> -->
 				<div class="b-member m-quad row-item col-md-3">
 					<div class="member-photo">
 						<img src="assets/img/execomm/Nilay.jpg" height="250px" width="200px">
 						<ul class="b-social">
-							<li><a class="fb" target="_blank"href="https://www.facebook.com/nihaal.shrimali"><i class="icon-facebook"></i></a></li>
+							<li><a class="fb" target="_blank" href="https://www.facebook.com/nihaal.shrimali"><i class="icon-facebook"></i></a></li>
 
 						</ul>
 					</div>
@@ -470,13 +488,30 @@ BRANCH EXECOMM 2016
 +91-9727066714</p>
 				</div>
 
-				<div class="b-member m-quad row-item col-md-1"></div>
+				<!-- <div class="b-member m-quad row-item col-md-1"></div> -->
 
 
 
 
 
 				<!-- </div> -->
+				<div class="b-member m-quad row-item col-md-3">
+					<div class="member-photo">
+						<img src="assets/img/execomm/Prachi.jpg" height="250px" width="200px">
+						<ul class="b-social">
+							<li><a class="fb" target="_blank" href="http://www.facebook.com/prachi.agrawal.9659"><i class="icon-facebook"></i></a></li>
+						</ul>
+					</div>
+					<div class="member-meta">
+						<div class="member-name">
+							Prachi Agrawal
+						</div>
+						<div class="member-position">
+							Event Coordinator
+						</div>
+					</div>
+					<p align="center">+91-9712015780</p>
+				</div>
 
 
 
