@@ -562,47 +562,8 @@ BRANCH EXECOMM 2016
 
 <div class="col-md-12">
 				<p style="font-size: 40px; font-style: bold;" align="center">Volunteers</p><br>
-				<div class="b-member m-quad row-item col-md-3">
-					<div class="member-photo">
-						<img src="assets/img/execomm/Dhaval.jpg" height="250px" width="200px">
-						<ul class="b-social">
-							<li><a class="fb" target="_blank"href="https://www.facebook.com/adhavalboy"><i class="icon-facebook"></i></a></li>
 
-
-						</ul>
-					</div>
-					<div class="member-meta">
-						<div class="member-name">
-							Dhaval Prajapati
-						</div>
-						<div class="member-position">
-							Volunteer
-						</div>
-					</div>
-					<p align="center">+91-9974956266</p>
-				</div>
-				<div class="b-member m-quad row-item col-md-3">
-					<div class="member-photo">
-						<img src="assets/img/execomm/Nikisha.jpg" height="250px" width="200px">
-						<ul class="b-social">
-							<li><a class="fb" target="_blank" href="https://www.facebook.com/nikisha.patel.25"><i class="icon-facebook"></i></a></li>
-
-
-						</ul>
-					</div>
-					<div class="member-meta">
-						<div class="member-name">
-							Nikisha Patel
-						</div>
-						<div class="member-position">
-							Volunteer
-						</div>
-					</div>
-					<p align="center">+91-9978212666</p>
-				</div>
-
-
-				<div class="b-member m-quad row-item col-md-3">
+			<div class="b-member m-quad row-item col-md-3">
 					<div class="member-photo">
 						<img src="assets/img/execomm/Divya.jpg" height="250px" width="200px">
 						<ul class="b-social">
@@ -640,7 +601,7 @@ BRANCH EXECOMM 2016
 
 				</div>
 
-				</div>
+		</div>
 
 				<div class="col-md-12">
 				<!-- <div class="col-md-3"></div> -->
