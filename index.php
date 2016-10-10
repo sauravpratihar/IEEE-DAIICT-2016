@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	
+
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -12,7 +12,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="shortcut icon" href="assets/img/ico.png">
-	
+
 		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css" />
 		<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css" />
 		<link rel="stylesheet" type="text/css" href="assets/css/theme.css" />
@@ -21,13 +21,13 @@
 		<link rel="stylesheet" type="text/css" href="assets/css/animate.css" />
 		<link rel="stylesheet" type="text/css" href="assets/css/yamm.css" />
 
-		
-	
-	
-</head>
-	<body data-spy="scroll" data-target=".navbar-collapse" data-offset="100"> 
 
-  <?php 
+
+
+</head>
+	<body data-spy="scroll" data-target=".navbar-collapse" data-offset="100">
+
+  <?php
   	$home = "active";
 	$about = "";
 	$chapters = "";
@@ -35,7 +35,7 @@
 	$branch = "";
 	$faq = "";
 	$contact = "";
-  	include('nav.php'); 
+  	include('nav.php');
   ?>
 
 <section id="header-event-image">
@@ -68,7 +68,7 @@
 								</div>
 
 								<style type="text/css">
-									
+
 											#news a{
 												color: white;
 											}
@@ -76,7 +76,7 @@
 											#news a:hover{
 												color: #555;
 											}
-									
+
 								</style>
 
 								<div class="col-sm-6">
@@ -107,16 +107,11 @@
 										</ul>
 										</p>
 								</div>
-						
+
 					</div>
 
-
-
-
-
-					
 				</div>
-			</div>	
+			</div>
 		</div>
 	</div>
 </section>
@@ -132,14 +127,14 @@
 
 <section class="container wow bounceIn main-items  myhover">
 
-		<h1 style="font-size: 50px; font-style: bold;color: #6699CC ;">Welcome to IEEE Student Branch, DA-IICT</h1> 
-		<br><br> 
+		<h1 style="font-size: 50px; font-style: bold;color: #6699CC ;">Welcome to IEEE Student Branch, DA-IICT</h1>
+		<br><br>
 
 		<p style="font-size:28px; font-style: italic;">DA-IICT is an academic institution promoted by the Dhirubhai Ambani Foundation and the Reliance Group, primarily aimed to impart Information and Communication Technology (ICT) education of international standards. Established amidst the lush green corridor of Gandhinagar, Gujarat, DA-IICT lives for furtherance of education, research, and training in ICT. DA-IICT commenced activities from August 2001. DA-IICT is a research led institute which houses world class facilities such well equipped labs with latest equipment and software, modern lecture theaters, a multi-cuisine canteen and on campus residence.
 The Institute of Electrical and Electronic Engineers Student Branch at DA-IICT endeavors to promote student awareness among students on the opportunities that exist in the field of electronics and electrical engineering. Our objective is to bridge the gap between industry and students studying in technology-related fields, while promoting and providing an intellectually stimulating university environment for the student body.
 
 IEEE Student Branch, DA-IICT aims to provide an interactive platform for students to develop professional and technical abilities. Since the inception, it is successful in organizing various events with well defined objectives.
-		</p> 
+		</p>
 
 
 
@@ -191,11 +186,11 @@ What distinguishes IEEE from this other societies is that IEEE is international.
 
 </div>
 
-		
+
 </section>
 <?php include('footer.php'); ?>
 <script type="text/javascript" src="assets/js/jquery.js"></script>
-<script type="text/javascript" src="assets/js/bootstrap.js"></script> 
+<script type="text/javascript" src="assets/js/bootstrap.js"></script>
 <script type="text/javascript" src="assets/js/jquery.countdown.min.js"></script>
 <script type="text/javascript" src="assets/js/wow.min.js"></script>
 <script type="text/javascript" src="assets/js/progressbars.js"></script>

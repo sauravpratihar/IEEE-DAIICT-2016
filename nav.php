@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.css" /> 
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.css" />
 
 <div class="navbar yamm navbar-default navbar-fixed-top " role="navigation">
     <div class="container">
@@ -10,7 +10,7 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="index.php">
-          <img src="assets/img/logo2.png" height="140" width="200">
+          <img src="assets/img/gallery/IEEESB.png" height="140" width="200">
       </a>
     </div>
     <div class="collapse navbar-collapse">
@@ -19,10 +19,10 @@
 
         <li class="<?php echo $home ?>">
           <a href="index.php">HOME<b></b></a>
-        
+
         </li>
 
-        
+
 
 
         <li class="<?php echo $about ?>">
@@ -33,16 +33,16 @@
             <li><a href="ab-ieee.php">IEEE HISTORY</a></li>
             <li><a href="ieee-gj.php">IEEE GUJARAT SECTION</a></li>
             <li><a href="region10.php">REGION 10</a></li>
-           
+
           </ul>
         </li>
         <li class="<?php echo $chapters ?>">
           <a  href="chapters.php">CHAPTERS</a>
-          
+
         </li>
         <li class="<?php echo $gallery ?>">
           <a  href="gallery.php">GALLERY</a>
-          
+
         </li>
 
         <li class="<?php echo $branch ?>">
@@ -62,7 +62,7 @@
           </ul>
         </li>
 
-       
+
 
         <li class="<?php echo $faq ?>">
           <a href="faq.php">FAQS</a>
@@ -73,17 +73,17 @@
         </li>
           <li>
             <a href="http://www.facebook.com/ieeesbdaiict" target="_blank"><i class="fa fa-facebook"></i></a>
-           
+
         </li>
 
         <li>
             <a href="mailto:ieee@daiict.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
-           
+
         </li>
 
         <li>
             <a href="mailto:ieeesbdaiict@gmail.com" target="_blank"><i class="fa fa-google"></i></a>
-           
+
         </li>
       </ul>
     </div>
