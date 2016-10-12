@@ -10,7 +10,7 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="index.php">
-          <img src="assets/img/gallery/IEEESB.png" height="140" width="200">
+          <img src="assets/img/gallery/IEEESB.png" style="width:145px">
       </a>
     </div>
     <div class="collapse navbar-collapse">
