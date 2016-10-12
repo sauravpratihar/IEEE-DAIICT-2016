@@ -601,11 +601,11 @@ BRANCH EXECOMM 2016
 
 				</div>
 
-		</div>
+		<!-- </div> -->
 
-				<div class="col-md-12">
+				<!-- <div class="col-md-12"> -->
 				<!-- <div class="col-md-3"></div> -->
-				<div class="b-member m-quad row-item col-md-3"></div>
+				<!-- <div class="b-member m-quad row-item col-md-3"></div> -->
 				<!-- <div class="col-md-3"> -->
 
 
